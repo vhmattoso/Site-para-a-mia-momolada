@@ -90,4 +90,38 @@
         object-fit: cover;
         z-index: -1;
     }
-    
+    #botãoP1,
+    #botãoP2,
+    #botãoP3,
+    #botãoP4,
+    #botãoP5,
+    #botãoP6,
+    #botãoP7,
+    #botãoP8,
+    #botãoP9,
+    #botãoP10,
+    #BotãoF {
+        background-color: rgb(255, 174, 228) !important;
+        border: 1px solid rgb(148, 119, 96);
+        border-radius: 100px;
+    }
+
+    .input {
+        font-weight: bold;
+        accent-color: rgb(255, 174, 228);
+    }
+
+    .foto_dela {
+        position: absolute;
+        top: 200px;
+        width: 400px;
+        height: 300px;
+        left: 600px;
+    }
+    .foto_dela2 {
+        position: absolute;
+        top: 1100px;
+        width: 225px;
+        height: 200px;
+        left: 800px;
+    }
